@@ -1,0 +1,13 @@
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: grey;
+}
+label{
+    font-weight: bolder;
+}
+button{
+    border-radius: 50%;
+    text-align: center;
+
+    }
